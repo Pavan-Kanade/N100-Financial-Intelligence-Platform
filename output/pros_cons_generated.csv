@@ -1,0 +1,294 @@
+company_id,type,rule_id,text,confidence_pct
+ABB,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ABB,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ABB,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+ADANIENSOL,pro,P00,Established market position in core sector with resilient operations,70
+ADANIENSOL,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+ADANIENSOL,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+ADANIENT,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ADANIENT,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+ADANIENT,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+ADANIGREEN,pro,P00,Established market position in core sector with resilient operations,70
+ADANIGREEN,con,C01,Debt-to-equity ratio of 6.38 is elevated for a non-financial company and warrants monitoring,85
+ADANIGREEN,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+ADANIPORTS,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ADANIPORTS,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+ADANIPOWER,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+ADANIPOWER,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+AMBUJACEM,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+AMBUJACEM,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+APOLLOHOSP,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+APOLLOHOSP,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+ASIANPAINT,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+ASIANPAINT,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+ATGL,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+ATGL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+AXISBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+AXISBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+AXISBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+AXISBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+AXISBANK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+AXISBANK,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+BAJAJ-AUTO,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BAJAJ-AUTO,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+BAJAJFINSV,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BAJAJFINSV,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+BAJAJHLDNG,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BAJAJHLDNG,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BAJAJHLDNG,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+BAJFINANCE,pro,P00,Established market position in core sector with resilient operations,70
+BAJFINANCE,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+BAJFINANCE,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+BANKBARODA,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+BANKBARODA,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+BANKBARODA,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+BANKBARODA,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+BANKBARODA,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BANKBARODA,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+BANKBARODA,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+BEL,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BEL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+BHARTIARTL,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BHARTIARTL,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BHARTIARTL,con,C01,Debt-to-equity ratio of 2.59 is elevated for a non-financial company and warrants monitoring,85
+BHEL,pro,P00,Established market position in core sector with resilient operations,70
+BHEL,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+BHEL,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+BOSCHLTD,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BOSCHLTD,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+BOSCHLTD,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+BOSCHLTD,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+BOSCHLTD,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+BPCL,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BPCL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+BRITANNIA,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+BRITANNIA,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+CANBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+CANBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+CANBK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+CANBK,pro,P08,Consistent dividend yield above 2% backed by positive free cash flow,80
+CANBK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+CANBK,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+CANBK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+CANBK,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+CHOLAFIN,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+CHOLAFIN,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+CIPLA,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+CIPLA,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+CIPLA,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+CIPLA,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+COALINDIA,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+COALINDIA,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+COALINDIA,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+DABUR,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+DABUR,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+DIVISLAB,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+DIVISLAB,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+DLF,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+DLF,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+DLF,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+DLF,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+DMART,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+DMART,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+DMART,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+DRREDDY,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+DRREDDY,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+EICHERMOT,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+EICHERMOT,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+EICHERMOT,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+EICHERMOT,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+EICHERMOT,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+GAIL,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+GAIL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+GODREJCP,pro,P00,Established market position in core sector with resilient operations,70
+GODREJCP,con,C04,Company reported a net loss in the most recent financial year,95
+GODREJCP,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+GRASIM,pro,P00,Established market position in core sector with resilient operations,70
+GRASIM,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+GRASIM,con,C09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,80
+HAL,pro,P00,Established market position in core sector with resilient operations,70
+HAL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+HAVELLS,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+HAVELLS,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HAVELLS,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+HCLTECH,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+HCLTECH,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+HCLTECH,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+HDFCBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+HDFCBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+HDFCBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+HDFCBANK,pro,P08,Consistent dividend yield above 2% backed by positive free cash flow,80
+HDFCBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+HDFCBANK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+HDFCBANK,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+HDFCLIFE,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+HDFCLIFE,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+HEROMOTOCO,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+HEROMOTOCO,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HEROMOTOCO,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+HEROMOTOCO,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+HEROMOTOCO,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+HINDALCO,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+HINDALCO,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+HINDUNILVR,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+HINDUNILVR,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+HINDUNILVR,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+HINDUNILVR,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+ICICIBANK,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+ICICIBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+ICICIBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+ICICIBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+ICICIBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+ICICIBANK,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ICICIBANK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+ICICIBANK,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+ICICIGI,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+ICICIGI,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+ICICIGI,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+ICICIPRULI,pro,P00,Established market position in core sector with resilient operations,70
+ICICIPRULI,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+INDIGO,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+INDIGO,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+INDIGO,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+INDIGO,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+INDIGO,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+INDUSINDBK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+INDUSINDBK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+INDUSINDBK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+INDUSINDBK,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+INFY,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+INFY,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+IOC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+IOC,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+IRCTC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+IRCTC,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+IRCTC,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+IRCTC,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+IRFC,pro,P00,Established market position in core sector with resilient operations,70
+IRFC,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+ITC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+ITC,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+ITC,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+JINDALSTEL,pro,P00,Established market position in core sector with resilient operations,70
+JINDALSTEL,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+JIOFIN,pro,P00,Established market position in core sector with resilient operations,70
+JIOFIN,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+JSWENERGY,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+JSWENERGY,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+JSWSTEEL,pro,P00,Established market position in core sector with resilient operations,70
+JSWSTEEL,con,C09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,80
+JSWSTEEL,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+KOTAKBANK,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+KOTAKBANK,pro,P05,Operating profit margin above 25% indicates strong pricing power and cost discipline,85
+KOTAKBANK,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+KOTAKBANK,pro,P08,Consistent dividend yield above 2% backed by positive free cash flow,80
+KOTAKBANK,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+KOTAKBANK,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+KOTAKBANK,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+KOTAKBANK,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+LICI,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+LICI,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+LODHA,pro,P00,Established market position in core sector with resilient operations,70
+LODHA,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+LT,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+LT,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+LT,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+LT,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+LTIM,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+LTIM,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+LTIM,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+M&M,pro,P00,Established market position in core sector with resilient operations,70
+M&M,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+M&M,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+MARUTI,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+MARUTI,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+MARUTI,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+MARUTI,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+MOTHERSON,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+MOTHERSON,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+MOTHERSON,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+NAUKRI,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+NAUKRI,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+NESTLEIND,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+NESTLEIND,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+NHPC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+NHPC,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+NHPC,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+NTPC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+NTPC,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+ONGC,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+ONGC,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+PFC,pro,P00,Established market position in core sector with resilient operations,70
+PFC,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+PIDILITIND,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+PIDILITIND,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+PIDILITIND,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+PIDILITIND,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+PNB,pro,P01,Consistently high return on equity above 20% demonstrates exceptional capital efficiency,90
+PNB,pro,P04,Revenue growing at above 15% CAGR over 5 years reflects strong business momentum,85
+PNB,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+POWERGRID,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+POWERGRID,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+POWERGRID,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+RECLTD,pro,P00,Established market position in core sector with resilient operations,70
+RECLTD,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+RELIANCE,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+RELIANCE,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+RELIANCE,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+SBILIFE,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+SBILIFE,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+SBIN,pro,P06,Net profit compounding at above 20% over 5 years creates significant shareholder value,90
+SBIN,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+SBIN,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+SBIN,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+SHREECEM,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+SHREECEM,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+SHRIRAMFIN,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+SHRIRAMFIN,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
+SIEMENS,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+SIEMENS,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SIEMENS,pro,P07,Very high interest coverage ratio reflects negligible financial stress from debt servicing,85
+SIEMENS,pro,P08,Consistent dividend yield above 2% backed by positive free cash flow,80
+SIEMENS,pro,P09,Earnings per share growing above 15% CAGR indicates strong earnings quality and compounding,85
+SIEMENS,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+SIEMENS,pro,P11,Revenue growing slower than profits shows improving operating leverage and scale benefits,75
+SIEMENS,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+SUNPHARMA,pro,P03,Debt-free balance sheet provides financial flexibility and eliminates interest burden,95
+SUNPHARMA,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+SUNPHARMA,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+SUNPHARMA,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+TATACONSUM,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TATACONSUM,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+TATACONSUM,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+TATAMOTORS,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TATAMOTORS,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TATAMOTORS,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+TATAMOTORS,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+TATAPOWER,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TATAPOWER,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+TATASTEEL,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TATASTEEL,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+TATASTEEL,con,C05,Revenue contraction over consecutive years indicates demand weakness or market share loss,85
+TATASTEEL,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+TATASTEEL,con,C09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,80
+TATASTEEL,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+TCS,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TCS,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TCS,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+TECHM,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TECHM,con,C03,Operating margins declining for 3 consecutive years suggest pricing or cost pressure,85
+TECHM,con,C09,Earnings per share declining for 3 consecutive years reflects deteriorating profitability,80
+TITAN,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TITAN,con,C01,Debt-to-equity ratio of 2.22 is elevated for a non-financial company and warrants monitoring,85
+TITAN,con,C08,Rising debt-to-equity ratio over 3 years suggests increasing financial leverage risk,80
+TITAN,con,C11,Net debt exceeding 3 times operating profit indicates high leverage ratio limiting flexibility,85
+TORNTPHARM,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TORNTPHARM,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TORNTPHARM,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+TORNTPHARM,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+TRENT,pro,P02,Strong free cash flow generation over recent years signals healthy business fundamentals,85
+TRENT,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TRENT,con,C00,Subject to macroeconomic cyclicality and commodity/input cost fluctuations,65
+TVSMOTOR,pro,P10,Return on equity improving for 3 consecutive years shows strengthening business quality,80
+TVSMOTOR,pro,P12,Growing asset base funded by internal accruals reflects self-sustaining growth,75
+TVSMOTOR,con,C02,Free cash flow negative for 3 consecutive years raises concern about cash generation quality,90
