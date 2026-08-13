@@ -39,11 +39,8 @@ class ScreenerEngine:
 
         comp_df = pd.read_sql("SELECT id as company_id, company_name, face_value, book_value FROM companies", conn)
         sec_df = pd.read_sql("SELECT company_id, broad_sector, sub_sector FROM sectors", conn)
-        mcap_df = pd.read_sql(f"SELECT company_id, year, market_cap_crore, enterprise_value_crore, pe_ratio, pb_ratio, ev_ebitda, dividend_yield_pct FROM market_cap WHERE year='{year}'", conn)
-
-        if mcap_df.empty:
-            max_mcap_yr = pd.read_sql("SELECT MAX(year) FROM market_cap", conn).iloc[0, 0]
-            mcap_df = pd.read_sql(f"SELECT company_id, year, market_cap_crore, enterprise_value_crore, pe_ratio, pb_ratio, ev_ebitda, dividend_yield_pct FROM market_cap WHERE year='{max_mcap_yr}'", conn)
+        mcap_df = pd.read_sql("SELECT company_id, year, market_cap_crore, enterprise_value_crore, pe_ratio, pb_ratio, ev_ebitda, dividend_yield_pct FROM market_cap ORDER BY year ASC", conn)
+        mcap_df = mcap_df.groupby("company_id").last().reset_index()
 
         pnl_df = pd.read_sql("SELECT company_id, year, sales, net_profit FROM profitandloss", conn)
 
@@ -141,7 +138,7 @@ class ScreenerEngine:
         comp = 0.35 * roe_sc + 0.30 * fcf_sc + 0.20 * gro_sc + 0.15 * de_sc
         return comp.round(2)
 
-    def run_preset(self, preset_name: str, year: str = "2023-03") -> pd.DataFrame:
+    def run_preset(self, preset_name: str, year: str = "2024-03") -> pd.DataFrame:
         """
         Executes a named preset screener.
         """
@@ -153,7 +150,7 @@ class ScreenerEngine:
         df_base = self.get_merged_dataset(year)
         return self.apply_filters(df_base, filters)
 
-    def run_all_presets(self, year: str = "2023-03") -> Dict[str, pd.DataFrame]:
+    def run_all_presets(self, year: str = "2024-03") -> Dict[str, pd.DataFrame]:
         """
         Runs all 6 preset screeners and returns dictionary mapping preset_name -> DataFrame.
         """

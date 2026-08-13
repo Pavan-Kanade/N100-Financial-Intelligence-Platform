@@ -1,0 +1,12 @@
+company_id,broad_sector,metric,value,z_score
+INDIGO,Consumer Discretionary,return_on_equity_pct,-40.7979,-3.04
+INDIGO,Consumer Discretionary,return_on_capital_employed_pct,5427.7567,3.47
+INDIGO,Consumer Discretionary,asset_turnover,51.2674,3.47
+ADANIGREEN,Energy,debt_to_equity,7.4237,3.22
+LICI,Financials,return_on_equity_pct,77.86,4.11
+HDFCLIFE,Financials,return_on_capital_employed_pct,502.4098,3.05
+BAJAJHLDNG,Financials,net_profit_margin_pct,947.5096,4.57
+AXISBANK,Financials,pat_cagr_5yr,103.2784,3.44
+AXISBANK,Financials,eps_cagr_5yr,98.7341,3.43
+BAJAJHLDNG,Financials,interest_coverage,721.8571,3.27
+PNB,Financials,asset_turnover,1.3,4.23

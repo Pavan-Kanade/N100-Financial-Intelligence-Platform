@@ -1,0 +1,352 @@
+[VERSION_DIFFERENCE] Company: ABB | Year: 2023-03 | ROCE computed (34.4%) vs companies.xlsx (46.0%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ABB | Year: 2023-03 | ROE computed (29.8%) vs companies.xlsx (34.9%) anomaly
+[VERSION_DIFFERENCE] Company: ABB | Year: 2024-03 | ROCE computed (39.0%) vs companies.xlsx (46.0%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ADANIENT | Year: 2023-03 | ROE computed (7.3%) vs companies.xlsx (13.6%) anomaly
+[VERSION_DIFFERENCE] Company: ADANIGREEN | Year: 2023-03 | ROCE computed (6.0%) vs companies.xlsx (96.5%) diff > 5%
+[VERSION_DIFFERENCE] Company: ADANIGREEN | Year: 2024-03 | ROCE computed (7.7%) vs companies.xlsx (96.5%) diff > 5%
+[VERSION_DIFFERENCE] Company: ADANIPORTS | Year: 2023-03 | ROCE computed (7.6%) vs companies.xlsx (12.9%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ADANIPORTS | Year: 2023-03 | ROE computed (11.9%) vs companies.xlsx (18.1%) anomaly
+[VERSION_DIFFERENCE] Company: ADANIPOWER | Year: 2023-03 | ROCE computed (9.4%) vs companies.xlsx (32.2%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ADANIPOWER | Year: 2023-03 | ROE computed (35.9%) vs companies.xlsx (57.1%) anomaly
+[VERSION_DIFFERENCE] Company: ADANIPOWER | Year: 2024-03 | ROCE computed (21.8%) vs companies.xlsx (32.2%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ADANIPOWER | Year: 2024-03 | ROE computed (29.4%) vs companies.xlsx (57.1%) anomaly
+[VERSION_DIFFERENCE] Company: ASIANPAINT | Year: 2023-03 | ROCE computed (30.1%) vs companies.xlsx (41.8%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ASIANPAINT | Year: 2023-03 | ROE computed (26.2%) vs companies.xlsx (31.4%) anomaly
+[VERSION_DIFFERENCE] Company: ASIANPAINT | Year: 2024-03 | ROCE computed (27.2%) vs companies.xlsx (41.8%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: ASIANPAINT | Year: 2024-03 | ROE computed (24.7%) vs companies.xlsx (31.4%) anomaly
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2013-03 | OPM computed (30.5816%) diff > 1% vs source (1353.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2014-03 | OPM computed (31.4742%) diff > 1% vs source (2307.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2015-03 | OPM computed (31.3622%) diff > 1% vs source (3097.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2016-03 | OPM computed (32.612%) diff > 1% vs source (3466.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2017-03 | OPM computed (53.4507%) diff > 1% vs source (-5715.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2018-03 | OPM computed (63.1171%) diff > 1% vs source (-10277.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2019-03 | OPM computed (49.3853%) diff > 1% vs source (-5447.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2020-03 | OPM computed (55.9847%) diff > 1% vs source (-9859.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2021-03 | OPM computed (50.12%) diff > 1% vs source (-2510.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2022-03 | OPM computed (44.4692%) diff > 1% vs source (3170.0%)
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2023-03 | OPM computed (34.1565%) diff > 1% vs source (13857.0%)
+[VERSION_DIFFERENCE] Company: AXISBANK | Year: 2023-03 | ROCE computed (1.2%) vs companies.xlsx (7.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: AXISBANK | Year: 2023-03 | ROE computed (7.4%) vs companies.xlsx (18.4%) anomaly
+[FORMULA_DISCREPANCY] Company: AXISBANK | Year: 2024-03 | OPM computed (36.9355%) diff > 1% vs source (9061.0%)
+[VERSION_DIFFERENCE] Company: BAJAJ-AUTO | Year: 2023-03 | ROCE computed (21.0%) vs companies.xlsx (33.5%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BAJAJ-AUTO | Year: 2023-03 | ROE computed (20.6%) vs companies.xlsx (26.5%) anomaly
+[VERSION_DIFFERENCE] Company: BAJAJ-AUTO | Year: 2024-03 | ROCE computed (28.4%) vs companies.xlsx (33.5%) diff > 5%
+[VERSION_DIFFERENCE] Company: BAJAJFINSV | Year: 2023-03 | ROCE computed (11.3%) vs companies.xlsx (21.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BAJAJFINSV | Year: 2023-03 | ROE computed (26.3%) vs companies.xlsx (11.7%) anomaly
+[VERSION_DIFFERENCE] Company: BAJAJFINSV | Year: 2024-03 | ROCE computed (12.7%) vs companies.xlsx (21.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BAJAJFINSV | Year: 2024-03 | ROE computed (27.4%) vs companies.xlsx (11.7%) anomaly
+[VERSION_DIFFERENCE] Company: BAJAJHLDNG | Year: 2023-03 | ROCE computed (0.8%) vs companies.xlsx (13.1%) diff > 5%
+[VERSION_DIFFERENCE] Company: BAJAJHLDNG | Year: 2024-03 | ROCE computed (2.8%) vs companies.xlsx (13.1%) diff > 5%
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2015-03 | OPM computed (32.4926%) diff > 1% vs source (1367.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2016-03 | OPM computed (32.251%) diff > 1% vs source (1986.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2017-03 | OPM computed (32.5978%) diff > 1% vs source (2867.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2018-03 | OPM computed (32.2846%) diff > 1% vs source (3935.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2019-03 | OPM computed (29.5018%) diff > 1% vs source (6310.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2020-03 | OPM computed (34.7274%) diff > 1% vs source (7608.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2021-03 | OPM computed (40.6366%) diff > 1% vs source (6314.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2022-03 | OPM computed (37.5462%) diff > 1% vs source (9906.0%)
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2023-03 | OPM computed (30.6513%) diff > 1% vs source (16018.0%)
+[VERSION_DIFFERENCE] Company: BAJFINANCE | Year: 2023-03 | ROCE computed (4.5%) vs companies.xlsx (11.9%) diff > 5%
+[FORMULA_DISCREPANCY] Company: BAJFINANCE | Year: 2024-03 | OPM computed (30.4164%) diff > 1% vs source (21417.0%)
+[VERSION_DIFFERENCE] Company: BAJFINANCE | Year: 2024-03 | ROCE computed (4.9%) vs companies.xlsx (11.9%) diff > 5%
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2013-03 | OPM computed (30.0477%) diff > 1% vs source (1006.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2014-03 | OPM computed (29.7778%) diff > 1% vs source (809.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2015-03 | OPM computed (29.9811%) diff > 1% vs source (902.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2016-03 | OPM computed (55.4401%) diff > 1% vs source (-11700.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2017-03 | OPM computed (43.2847%) diff > 1% vs source (-4372.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2018-03 | OPM computed (56.6549%) diff > 1% vs source (-9197.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2019-03 | OPM computed (48.7941%) diff > 1% vs source (-5414.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2020-03 | OPM computed (51.4393%) diff > 1% vs source (-11728.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2021-03 | OPM computed (51.2286%) diff > 1% vs source (-6957.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2022-03 | OPM computed (51.1249%) diff > 1% vs source (-2948.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2023-03 | OPM computed (40.4548%) diff > 1% vs source (6329.0%)
+[FORMULA_DISCREPANCY] Company: BANKBARODA | Year: 2024-03 | OPM computed (37.4235%) diff > 1% vs source (3526.0%)
+[VERSION_DIFFERENCE] Company: BEL | Year: 2023-03 | ROCE computed (3211.4%) vs companies.xlsx (34.6%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BEL | Year: 2023-03 | ROE computed (3981.3%) vs companies.xlsx (26.3%) anomaly
+[VERSION_DIFFERENCE] Company: BEL | Year: 2024-03 | ROCE computed (4144.1%) vs companies.xlsx (34.6%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BEL | Year: 2024-03 | ROE computed (5406.0%) vs companies.xlsx (26.3%) anomaly
+[VERSION_DIFFERENCE] Company: BOSCHLTD | Year: 2023-03 | ROCE computed (12.9%) vs companies.xlsx (20.6%) diff > 5%
+[VERSION_DIFFERENCE] Company: BOSCHLTD | Year: 2024-03 | ROCE computed (14.9%) vs companies.xlsx (20.6%) diff > 5%
+[VERSION_DIFFERENCE] Company: BPCL | Year: 2023-03 | ROCE computed (3.7%) vs companies.xlsx (32.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BPCL | Year: 2023-03 | ROE computed (4.0%) vs companies.xlsx (41.9%) anomaly
+[VERSION_DIFFERENCE] Company: BPCL | Year: 2024-03 | ROCE computed (15.0%) vs companies.xlsx (32.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BPCL | Year: 2024-03 | ROE computed (18.2%) vs companies.xlsx (41.9%) anomaly
+[VERSION_DIFFERENCE] Company: BRITANNIA | Year: 2023-03 | ROCE computed (39.9%) vs companies.xlsx (48.9%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: BRITANNIA | Year: 2023-03 | ROE computed (65.5%) vs companies.xlsx (57.1%) anomaly
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2013-03 | OPM computed (21.1829%) diff > 1% vs source (655.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2014-03 | OPM computed (24.3518%) diff > 1% vs source (-672.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2015-03 | OPM computed (23.5136%) diff > 1% vs source (-621.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2016-03 | OPM computed (40.3847%) diff > 1% vs source (-8008.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2017-03 | OPM computed (37.8489%) diff > 1% vs source (-5775.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2018-03 | OPM computed (61.8745%) diff > 1% vs source (-13350.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2019-03 | OPM computed (56.7287%) diff > 1% vs source (-11590.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2020-03 | OPM computed (53.8777%) diff > 1% vs source (-12867.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2021-03 | OPM computed (61.8294%) diff > 1% vs source (-18367.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2022-03 | OPM computed (58.3949%) diff > 1% vs source (-13657.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2023-03 | OPM computed (49.8015%) diff > 1% vs source (-9877.0%)
+[FORMULA_DISCREPANCY] Company: CANBK | Year: 2024-03 | OPM computed (40.2255%) diff > 1% vs source (-8985.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2013-03 | OPM computed (26.7704%) diff > 1% vs source (472.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2014-03 | OPM computed (28.4233%) diff > 1% vs source (578.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2015-03 | OPM computed (28.5599%) diff > 1% vs source (696.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2016-03 | OPM computed (30.0427%) diff > 1% vs source (899.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2017-03 | OPM computed (28.1636%) diff > 1% vs source (1143.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2018-03 | OPM computed (26.1018%) diff > 1% vs source (1451.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2019-03 | OPM computed (22.96%) diff > 1% vs source (1888.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2020-03 | OPM computed (27.7893%) diff > 1% vs source (1699.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2021-03 | OPM computed (30.3976%) diff > 1% vs source (2094.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2022-03 | OPM computed (28.8333%) diff > 1% vs source (2924.0%)
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2023-03 | OPM computed (28.1046%) diff > 1% vs source (3515.0%)
+[VERSION_DIFFERENCE] Company: CHOLAFIN | Year: 2023-03 | ROCE computed (3.1%) vs companies.xlsx (10.4%) diff > 5%
+[FORMULA_DISCREPANCY] Company: CHOLAFIN | Year: 2024-03 | OPM computed (28.673%) diff > 1% vs source (5175.0%)
+[VERSION_DIFFERENCE] Company: CHOLAFIN | Year: 2024-03 | ROCE computed (4.0%) vs companies.xlsx (10.4%) diff > 5%
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2013-03 | OPM computed (73.2576%) diff > 1% vs source (2214.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2014-03 | OPM computed (78.8951%) diff > 1% vs source (2147.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2015-03 | OPM computed (80.9431%) diff > 1% vs source (2163.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2016-03 | OPM computed (82.016%) diff > 1% vs source (2480.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2017-03 | OPM computed (82.6594%) diff > 1% vs source (2496.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2018-03 | OPM computed (81.3473%) diff > 1% vs source (2826.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2019-03 | OPM computed (81.072%) diff > 1% vs source (3097.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2020-03 | OPM computed (81.2865%) diff > 1% vs source (3206.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2021-03 | OPM computed (77.8027%) diff > 1% vs source (4252.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2022-03 | OPM computed (79.0838%) diff > 1% vs source (4553.0%)
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2023-03 | OPM computed (77.9062%) diff > 1% vs source (5027.0%)
+[VERSION_DIFFERENCE] Company: CIPLA | Year: 2023-03 | ROCE computed (68.4%) vs companies.xlsx (22.8%) diff > 5%
+[FORMULA_DISCREPANCY] Company: CIPLA | Year: 2024-03 | OPM computed (74.4042%) diff > 1% vs source (6906.0%)
+[VERSION_DIFFERENCE] Company: CIPLA | Year: 2024-03 | ROCE computed (69.6%) vs companies.xlsx (22.8%) diff > 5%
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2013-03 | OPM computed (73.5195%) diff > 1% vs source (18087.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2014-03 | OPM computed (74.8385%) diff > 1% vs source (17766.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2015-03 | OPM computed (76.6015%) diff > 1% vs source (17343.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2016-03 | OPM computed (75.9649%) diff > 1% vs source (18714.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2017-03 | OPM computed (84.0745%) diff > 1% vs source (12448.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2018-03 | OPM computed (89.1042%) diff > 1% vs source (9288.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2019-03 | OPM computed (74.889%) diff > 1% vs source (25007.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2020-03 | OPM computed (77.5396%) diff > 1% vs source (21581.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2021-03 | OPM computed (79.3082%) diff > 1% vs source (18628.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2022-03 | OPM computed (77.4689%) diff > 1% vs source (24721.0%)
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2023-03 | OPM computed (68.0062%) diff > 1% vs source (44232.0%)
+[VERSION_DIFFERENCE] Company: COALINDIA | Year: 2023-03 | ROCE computed (133.8%) vs companies.xlsx (63.6%) diff > 5%
+[FORMULA_DISCREPANCY] Company: COALINDIA | Year: 2024-03 | OPM computed (66.7842%) diff > 1% vs source (46610.0%)
+[VERSION_DIFFERENCE] Company: COALINDIA | Year: 2024-03 | ROCE computed (95.6%) vs companies.xlsx (63.6%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: COALINDIA | Year: 2024-03 | ROE computed (41.5%) vs companies.xlsx (52.0%) anomaly
+[VERSION_DIFFERENCE] Company: DABUR | Year: 2024-03 | ROCE computed (17.1%) vs companies.xlsx (22.3%) diff > 5%
+[VERSION_DIFFERENCE] Company: DRREDDY | Year: 2023-03 | ROCE computed (21.2%) vs companies.xlsx (26.5%) diff > 5%
+[VERSION_DIFFERENCE] Company: EICHERMOT | Year: 2023-03 | ROCE computed (19.1%) vs companies.xlsx (31.1%) diff > 5%
+[VERSION_DIFFERENCE] Company: EICHERMOT | Year: 2024-03 | ROCE computed (20.6%) vs companies.xlsx (31.1%) diff > 5%
+[VERSION_DIFFERENCE] Company: GAIL | Year: 2023-03 | ROCE computed (5.8%) vs companies.xlsx (14.7%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: GAIL | Year: 2023-03 | ROE computed (8.6%) vs companies.xlsx (14.0%) anomaly
+[VERSION_DIFFERENCE] Company: GODREJCP | Year: 2023-03 | ROCE computed (14.8%) vs companies.xlsx (26.5%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: GODREJCP | Year: 2023-03 | ROE computed (12.3%) vs companies.xlsx (6.8%) anomaly
+[VERSION_DIFFERENCE] Company: GODREJCP | Year: 2024-03 | ROCE computed (17.6%) vs companies.xlsx (26.5%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: GODREJCP | Year: 2024-03 | ROE computed (-3.6%) vs companies.xlsx (6.8%) anomaly
+[DATA_SOURCE_ISSUE] Company: GRASIM | Year: 2023-03 | ROE computed (14.1%) vs companies.xlsx (6.9%) anomaly
+[VERSION_DIFFERENCE] Company: HAL | Year: 2023-03 | ROCE computed (2180.8%) vs companies.xlsx (38.9%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: HAL | Year: 2023-03 | ROE computed (3283.1%) vs companies.xlsx (28.9%) anomaly
+[VERSION_DIFFERENCE] Company: HAL | Year: 2024-03 | ROCE computed (2724.2%) vs companies.xlsx (38.9%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: HAL | Year: 2024-03 | ROE computed (4257.3%) vs companies.xlsx (28.9%) anomaly
+[VERSION_DIFFERENCE] Company: HAVELLS | Year: 2023-03 | ROCE computed (19.3%) vs companies.xlsx (24.4%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2013-03 | OPM computed (35.2221%) diff > 1% vs source (3534.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2014-03 | OPM computed (31.7425%) diff > 1% vs source (5602.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2015-03 | OPM computed (31.9031%) diff > 1% vs source (7214.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2016-03 | OPM computed (31.7517%) diff > 1% vs source (9037.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2017-03 | OPM computed (32.5586%) diff > 1% vs source (11374.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2018-03 | OPM computed (34.6262%) diff > 1% vs source (13374.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2019-03 | OPM computed (33.1454%) diff > 1% vs source (16592.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2020-03 | OPM computed (37.2038%) diff > 1% vs source (14593.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2021-03 | OPM computed (40.8061%) diff > 1% vs source (16848.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2022-03 | OPM computed (41.6056%) diff > 1% vs source (20795.0%)
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2023-03 | OPM computed (36.9198%) diff > 1% vs source (29932.0%)
+[VERSION_DIFFERENCE] Company: HDFCBANK | Year: 2023-03 | ROCE computed (2.5%) vs companies.xlsx (7.7%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HDFCBANK | Year: 2024-03 | OPM computed (62.6125%) diff > 1% vs source (-57587.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2013-03 | OPM computed (96.266%) diff > 1% vs source (525.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2014-03 | OPM computed (96.4756%) diff > 1% vs source (605.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2015-03 | OPM computed (96.7885%) diff > 1% vs source (874.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2016-03 | OPM computed (94.7412%) diff > 1% vs source (953.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2017-03 | OPM computed (96.8251%) diff > 1% vs source (972.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2018-03 | OPM computed (96.6708%) diff > 1% vs source (1074.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2019-03 | OPM computed (96.873%) diff > 1% vs source (1215.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2020-03 | OPM computed (96.1164%) diff > 1% vs source (1141.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2021-03 | OPM computed (98.2748%) diff > 1% vs source (1235.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2022-03 | OPM computed (98.841%) diff > 1% vs source (778.0%)
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2023-03 | OPM computed (99.8861%) diff > 1% vs source (80.0%)
+[VERSION_DIFFERENCE] Company: HDFCLIFE | Year: 2023-03 | ROCE computed (502.4%) vs companies.xlsx (6.6%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HDFCLIFE | Year: 2024-03 | OPM computed (99.2815%) diff > 1% vs source (725.0%)
+[VERSION_DIFFERENCE] Company: HDFCLIFE | Year: 2024-03 | ROCE computed (640.7%) vs companies.xlsx (6.6%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2014-03 | OPM computed (85.9426%) diff > 1% vs source (3553.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2015-03 | OPM computed (87.2177%) diff > 1% vs source (3520.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2016-03 | OPM computed (84.4537%) diff > 1% vs source (4424.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2017-03 | OPM computed (83.9741%) diff > 1% vs source (4585.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2018-03 | OPM computed (83.5665%) diff > 1% vs source (5334.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2019-03 | OPM computed (85.208%) diff > 1% vs source (5025.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2020-03 | OPM computed (86.0874%) diff > 1% vs source (4070.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2021-03 | OPM computed (86.8956%) diff > 1% vs source (4058.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2022-03 | OPM computed (88.9818%) diff > 1% vs source (3256.0%)
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2023-03 | OPM computed (88.0028%) diff > 1% vs source (4099.0%)
+[VERSION_DIFFERENCE] Company: HEROMOTOCO | Year: 2023-03 | ROCE computed (170.5%) vs companies.xlsx (29.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: HEROMOTOCO | Year: 2023-03 | ROE computed (16.8%) vs companies.xlsx (22.0%) anomaly
+[FORMULA_DISCREPANCY] Company: HEROMOTOCO | Year: 2024-03 | OPM computed (86.1315%) diff > 1% vs source (5561.0%)
+[VERSION_DIFFERENCE] Company: HEROMOTOCO | Year: 2024-03 | ROCE computed (184.3%) vs companies.xlsx (29.1%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2013-03 | OPM computed (90.3994%) diff > 1% vs source (7699.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2014-03 | OPM computed (90.8501%) diff > 1% vs source (8024.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2015-03 | OPM computed (91.5191%) diff > 1% vs source (8844.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2016-03 | OPM computed (92.1243%) diff > 1% vs source (7778.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2017-03 | OPM computed (87.7056%) diff > 1% vs source (12317.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2018-03 | OPM computed (88.1102%) diff > 1% vs source (13695.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2019-03 | OPM computed (88.118%) diff > 1% vs source (15511.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2020-03 | OPM computed (87.891%) diff > 1% vs source (14306.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2021-03 | OPM computed (86.6985%) diff > 1% vs source (17559.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2022-03 | OPM computed (85.4675%) diff > 1% vs source (28347.0%)
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2023-03 | OPM computed (89.8451%) diff > 1% vs source (22666.0%)
+[VERSION_DIFFERENCE] Company: HINDALCO | Year: 2023-03 | ROCE computed (124.7%) vs companies.xlsx (11.3%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HINDALCO | Year: 2024-03 | OPM computed (87.5318%) diff > 1% vs source (27931.0%)
+[VERSION_DIFFERENCE] Company: HINDALCO | Year: 2024-03 | ROCE computed (115.9%) vs companies.xlsx (11.3%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2013-03 | OPM computed (84.3727%) diff > 1% vs source (4220.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2014-03 | OPM computed (83.721%) diff > 1% vs source (4759.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2015-03 | OPM computed (83.0727%) diff > 1% vs source (5412.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2016-03 | OPM computed (81.638%) diff > 1% vs source (5910.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2017-03 | OPM computed (80.9179%) diff > 1% vs source (6328.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2018-03 | OPM computed (78.9028%) diff > 1% vs source (7499.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2019-03 | OPM computed (77.4103%) diff > 1% vs source (8880.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2020-03 | OPM computed (75.213%) diff > 1% vs source (9861.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2021-03 | OPM computed (75.2786%) diff > 1% vs source (11626.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2022-03 | OPM computed (75.4853%) diff > 1% vs source (12857.0%)
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2023-03 | OPM computed (76.6474%) diff > 1% vs source (14147.0%)
+[VERSION_DIFFERENCE] Company: HINDUNILVR | Year: 2023-03 | ROCE computed (87.9%) vs companies.xlsx (27.2%) diff > 5%
+[FORMULA_DISCREPANCY] Company: HINDUNILVR | Year: 2024-03 | OPM computed (76.4463%) diff > 1% vs source (14759.0%)
+[VERSION_DIFFERENCE] Company: HINDUNILVR | Year: 2024-03 | ROCE computed (88.4%) vs companies.xlsx (27.2%) diff > 5%
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2013-03 | OPM computed (70.5893%) diff > 1% vs source (-15085.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2014-03 | OPM computed (66.3958%) diff > 1% vs source (-13084.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2015-03 | OPM computed (70.5298%) diff > 1% vs source (-16120.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2016-03 | OPM computed (88.1236%) diff > 1% vs source (-26955.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2017-03 | OPM computed (104.7604%) diff > 1% vs source (-37737.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2018-03 | OPM computed (117.123%) diff > 1% vs source (-44906.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2019-03 | OPM computed (116.3833%) diff > 1% vs source (-50971.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2020-03 | OPM computed (100.6188%) diff > 1% vs source (-45190.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2021-03 | OPM computed (102.4068%) diff > 1% vs source (-44805.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2022-03 | OPM computed (84.6877%) diff > 1% vs source (-26558.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2023-03 | OPM computed (72.5747%) diff > 1% vs source (-17341.0%)
+[FORMULA_DISCREPANCY] Company: ICICIBANK | Year: 2024-03 | OPM computed (69.6324%) diff > 1% vs source (-31575.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2013-03 | OPM computed (104.4616%) diff > 1% vs source (-178.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2014-03 | OPM computed (105.193%) diff > 1% vs source (-225.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2015-03 | OPM computed (105.2433%) diff > 1% vs source (-221.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2016-03 | OPM computed (87.3363%) diff > 1% vs source (764.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2017-03 | OPM computed (87.7793%) diff > 1% vs source (919.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2018-03 | OPM computed (103.7905%) diff > 1% vs source (-262.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2019-03 | OPM computed (85.0488%) diff > 1% vs source (1669.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2020-03 | OPM computed (84.614%) diff > 1% vs source (1772.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2021-03 | OPM computed (82.9702%) diff > 1% vs source (2072.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2022-03 | OPM computed (93.6603%) diff > 1% vs source (1016.0%)
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2023-03 | OPM computed (92.9291%) diff > 1% vs source (1264.0%)
+[VERSION_DIFFERENCE] Company: ICICIGI | Year: 2023-03 | ROCE computed (157.2%) vs companies.xlsx (22.5%) diff > 5%
+[FORMULA_DISCREPANCY] Company: ICICIGI | Year: 2024-03 | OPM computed (85.5671%) diff > 1% vs source (3363.0%)
+[VERSION_DIFFERENCE] Company: ICICIGI | Year: 2024-03 | ROCE computed (162.9%) vs companies.xlsx (22.5%) diff > 5%
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2013-03 | OPM computed (96.2797%) diff > 1% vs source (745.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2014-03 | OPM computed (93.1287%) diff > 1% vs source (1504.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2015-03 | OPM computed (95.1964%) diff > 1% vs source (1655.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2016-03 | OPM computed (91.1698%) diff > 1% vs source (1842.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2017-03 | OPM computed (95.2242%) diff > 1% vs source (1806.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2018-03 | OPM computed (95.4419%) diff > 1% vs source (1771.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2019-03 | OPM computed (98.6952%) diff > 1% vs source (541.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2020-03 | OPM computed (101.5172%) diff > 1% vs source (-319.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2021-03 | OPM computed (100.4689%) diff > 1% vs source (-390.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2022-03 | OPM computed (103.4044%) diff > 1% vs source (-2163.0%)
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2023-03 | OPM computed (103.4807%) diff > 1% vs source (-1757.0%)
+[VERSION_DIFFERENCE] Company: ICICIPRULI | Year: 2023-03 | ROCE computed (461.9%) vs companies.xlsx (8.8%) diff > 5%
+[FORMULA_DISCREPANCY] Company: ICICIPRULI | Year: 2024-03 | OPM computed (99.5862%) diff > 1% vs source (321.0%)
+[VERSION_DIFFERENCE] Company: ICICIPRULI | Year: 2024-03 | ROCE computed (632.9%) vs companies.xlsx (8.8%) diff > 5%
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2013-03 | OPM computed (90.7096%) diff > 1% vs source (855.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2014-03 | OPM computed (96.1051%) diff > 1% vs source (433.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2015-03 | OPM computed (86.3339%) diff > 1% vs source (1904.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2016-03 | OPM computed (80.3965%) diff > 1% vs source (3164.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2017-03 | OPM computed (88.0624%) diff > 1% vs source (2219.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2018-03 | OPM computed (86.8381%) diff > 1% vs source (3030.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2019-03 | OPM computed (100.5299%) diff > 1% vs source (-151.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2020-03 | OPM computed (88.6201%) diff > 1% vs source (4069.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2021-03 | OPM computed (99.9795%) diff > 1% vs source (2.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2022-03 | OPM computed (97.8481%) diff > 1% vs source (558.0%)
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2023-03 | OPM computed (88.0248%) diff > 1% vs source (6521.0%)
+[VERSION_DIFFERENCE] Company: INDIGO | Year: 2023-03 | ROCE computed (5427.8%) vs companies.xlsx (24.5%) diff > 5%
+[FORMULA_DISCREPANCY] Company: INDIGO | Year: 2024-03 | OPM computed (79.1987%) diff > 1% vs source (15908.0%)
+[VERSION_DIFFERENCE] Company: INDIGO | Year: 2024-03 | ROCE computed (5645.2%) vs companies.xlsx (24.5%) diff > 5%
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2013-03 | OPM computed (27.882%) diff > 1% vs source (286.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2014-03 | OPM computed (30.9547%) diff > 1% vs source (335.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2015-03 | OPM computed (32.3256%) diff > 1% vs source (288.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2016-03 | OPM computed (35.2763%) diff > 1% vs source (329.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2017-03 | OPM computed (39.4558%) diff > 1% vs source (379.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2018-03 | OPM computed (37.9318%) diff > 1% vs source (942.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2019-03 | OPM computed (41.7007%) diff > 1% vs source (-437.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2020-03 | OPM computed (43.8141%) diff > 1% vs source (-553.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2021-03 | OPM computed (55.1621%) diff > 1% vs source (-2469.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2022-03 | OPM computed (51.3919%) diff > 1% vs source (-839.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2023-03 | OPM computed (42.6886%) diff > 1% vs source (2067.0%)
+[FORMULA_DISCREPANCY] Company: INDUSINDBK | Year: 2024-03 | OPM computed (41.0252%) diff > 1% vs source (1323.0%)
+[VERSION_DIFFERENCE] Company: INFY | Year: 2024-03 | ROCE computed (34.7%) vs companies.xlsx (40.0%) diff > 5%
+[VERSION_DIFFERENCE] Company: IOC | Year: 2023-03 | ROCE computed (6.1%) vs companies.xlsx (21.3%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: IOC | Year: 2023-03 | ROE computed (8.4%) vs companies.xlsx (25.4%) anomaly
+[VERSION_DIFFERENCE] Company: IOC | Year: 2024-03 | ROCE computed (5.2%) vs companies.xlsx (21.3%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: IOC | Year: 2024-03 | ROE computed (5.9%) vs companies.xlsx (25.4%) anomaly
+[VERSION_DIFFERENCE] Company: IRCTC | Year: 2023-03 | ROCE computed (47.7%) vs companies.xlsx (53.8%) diff > 5%
+[VERSION_DIFFERENCE] Company: IRCTC | Year: 2024-03 | ROCE computed (44.0%) vs companies.xlsx (53.8%) diff > 5%
+[FORMULA_DISCREPANCY] Company: JIOFIN | Year: 2023-03 | OPM computed (86.6667%) diff > 1% vs source (88.0%)
+[VERSION_DIFFERENCE] Company: JSWSTEEL | Year: 2023-03 | ROCE computed (7.5%) vs companies.xlsx (13.4%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: JSWSTEEL | Year: 2023-03 | ROE computed (6.3%) vs companies.xlsx (11.7%) anomaly
+[VERSION_DIFFERENCE] Company: JSWSTEEL | Year: 2024-03 | ROCE computed (8.1%) vs companies.xlsx (13.4%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: JSWSTEEL | Year: 2024-03 | ROE computed (4.3%) vs companies.xlsx (11.7%) anomaly
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2013-03 | OPM computed (60.9245%) diff > 1% vs source (-1789.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2014-03 | OPM computed (58.8437%) diff > 1% vs source (-1379.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2015-03 | OPM computed (72.9634%) diff > 1% vs source (-3366.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2016-03 | OPM computed (56.568%) diff > 1% vs source (-2263.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2017-03 | OPM computed (66.4397%) diff > 1% vs source (-3965.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2018-03 | OPM computed (66.8696%) diff > 1% vs source (-4141.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2019-03 | OPM computed (66.2331%) diff > 1% vs source (-5114.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2020-03 | OPM computed (67.4494%) diff > 1% vs source (-5005.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2021-03 | OPM computed (90.8349%) diff > 1% vs source (-9958.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2022-03 | OPM computed (90.9843%) diff > 1% vs source (-8512.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2023-03 | OPM computed (79.4406%) diff > 1% vs source (-5746.0%)
+[FORMULA_DISCREPANCY] Company: KOTAKBANK | Year: 2024-03 | OPM computed (79.4217%) diff > 1% vs source (-14146.0%)
+[VERSION_DIFFERENCE] Company: LICI | Year: 2023-03 | ROCE computed (73.0%) vs companies.xlsx (63.8%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: LICI | Year: 2023-03 | ROE computed (77.9%) vs companies.xlsx (63.6%) anomaly
+[VERSION_DIFFERENCE] Company: LICI | Year: 2024-03 | ROCE computed (31.2%) vs companies.xlsx (63.8%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: LICI | Year: 2024-03 | ROE computed (50.1%) vs companies.xlsx (63.6%) anomaly
+[DATA_SOURCE_ISSUE] Company: LODHA | Year: 2023-03 | ROE computed (3.9%) vs companies.xlsx (10.7%) anomaly
+[VERSION_DIFFERENCE] Company: LT | Year: 2023-03 | ROCE computed (130.5%) vs companies.xlsx (17.2%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: LT | Year: 2023-03 | ROE computed (75.5%) vs companies.xlsx (10.5%) anomaly
+[VERSION_DIFFERENCE] Company: LT | Year: 2024-03 | ROCE computed (121.6%) vs companies.xlsx (17.2%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: LT | Year: 2024-03 | ROE computed (80.7%) vs companies.xlsx (10.5%) anomaly
+[VERSION_DIFFERENCE] Company: LTIM | Year: 2024-03 | ROCE computed (24.7%) vs companies.xlsx (34.1%) diff > 5%
+[VERSION_DIFFERENCE] Company: M&M | Year: 2023-03 | ROCE computed (10.7%) vs companies.xlsx (27.0%) diff > 5%
+[VERSION_DIFFERENCE] Company: M&M | Year: 2024-03 | ROCE computed (12.7%) vs companies.xlsx (27.0%) diff > 5%
+[VERSION_DIFFERENCE] Company: MARUTI | Year: 2023-03 | ROCE computed (10.9%) vs companies.xlsx (23.7%) diff > 5%
+[VERSION_DIFFERENCE] Company: MARUTI | Year: 2024-03 | ROCE computed (16.8%) vs companies.xlsx (23.7%) diff > 5%
+[VERSION_DIFFERENCE] Company: MOTHERSON | Year: 2023-03 | ROCE computed (8.6%) vs companies.xlsx (13.7%) diff > 5%
+[VERSION_DIFFERENCE] Company: NESTLEIND | Year: 2024-03 | ROCE computed (116.0%) vs companies.xlsx (185.4%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: NESTLEIND | Year: 2024-03 | ROE computed (99.5%) vs companies.xlsx (135.6%) anomaly
+[VERSION_DIFFERENCE] Company: ONGC | Year: 2023-03 | ROCE computed (12.1%) vs companies.xlsx (19.7%) diff > 5%
+[VERSION_DIFFERENCE] Company: ONGC | Year: 2024-03 | ROCE computed (11.1%) vs companies.xlsx (19.7%) diff > 5%
+[VERSION_DIFFERENCE] Company: PFC | Year: 2023-03 | ROCE computed (3.2%) vs companies.xlsx (10.0%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: PFC | Year: 2023-03 | ROE computed (25.2%) vs companies.xlsx (19.5%) anomaly
+[VERSION_DIFFERENCE] Company: PFC | Year: 2024-03 | ROCE computed (3.7%) vs companies.xlsx (10.0%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: PFC | Year: 2024-03 | ROE computed (27.9%) vs companies.xlsx (19.5%) anomaly
+[VERSION_DIFFERENCE] Company: PIDILITIND | Year: 2023-03 | ROCE computed (22.6%) vs companies.xlsx (29.7%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: PNB | Year: 2023-03 | ROE computed (30.7%) vs companies.xlsx (8.7%) anomaly
+[DATA_SOURCE_ISSUE] Company: PNB | Year: 2024-03 | ROE computed (97.3%) vs companies.xlsx (8.7%) anomaly
+[VERSION_DIFFERENCE] Company: SBILIFE | Year: 2023-03 | ROCE computed (0.4%) vs companies.xlsx (13.2%) diff > 5%
+[VERSION_DIFFERENCE] Company: SBILIFE | Year: 2024-03 | ROCE computed (6.8%) vs companies.xlsx (13.2%) diff > 5%
+[VERSION_DIFFERENCE] Company: SHREECEM | Year: 2023-03 | ROCE computed (6.1%) vs companies.xlsx (14.8%) diff > 5%
+[VERSION_DIFFERENCE] Company: SHREECEM | Year: 2024-03 | ROCE computed (7.4%) vs companies.xlsx (14.8%) diff > 5%
+[VERSION_DIFFERENCE] Company: SHRIRAMFIN | Year: 2023-03 | ROCE computed (3.9%) vs companies.xlsx (11.3%) diff > 5%
+[VERSION_DIFFERENCE] Company: SHRIRAMFIN | Year: 2024-03 | ROCE computed (4.4%) vs companies.xlsx (11.3%) diff > 5%
+[VERSION_DIFFERENCE] Company: TATAMOTORS | Year: 2023-03 | ROCE computed (3.9%) vs companies.xlsx (20.1%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: TATAMOTORS | Year: 2023-03 | ROE computed (5.9%) vs companies.xlsx (49.4%) anomaly
+[DATA_SOURCE_ISSUE] Company: TATAMOTORS | Year: 2024-03 | ROE computed (39.8%) vs companies.xlsx (49.4%) anomaly
+[VERSION_DIFFERENCE] Company: TATAPOWER | Year: 2023-03 | ROCE computed (5.2%) vs companies.xlsx (11.1%) diff > 5%
+[VERSION_DIFFERENCE] Company: TATASTEEL | Year: 2023-03 | ROCE computed (12.2%) vs companies.xlsx (7.0%) diff > 5%
+[VERSION_DIFFERENCE] Company: TCS | Year: 2023-03 | ROCE computed (55.3%) vs companies.xlsx (64.3%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: TCS | Year: 2023-03 | ROE computed (46.8%) vs companies.xlsx (0.5%) anomaly
+[DATA_SOURCE_ISSUE] Company: TCS | Year: 2024-03 | ROE computed (54.2%) vs companies.xlsx (0.5%) anomaly
+[VERSION_DIFFERENCE] Company: TECHM | Year: 2023-03 | ROCE computed (18.9%) vs companies.xlsx (11.9%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: TECHM | Year: 2023-03 | ROE computed (17.4%) vs companies.xlsx (8.6%) anomaly
+[DATA_SOURCE_ISSUE] Company: TECHM | Year: 2024-03 | ROE computed (14.2%) vs companies.xlsx (8.6%) anomaly
+[DATA_SOURCE_ISSUE] Company: TITAN | Year: 2023-03 | ROE computed (27.6%) vs companies.xlsx (32.9%) anomaly
+[VERSION_DIFFERENCE] Company: TRENT | Year: 2023-03 | ROCE computed (8.8%) vs companies.xlsx (23.8%) diff > 5%
+[DATA_SOURCE_ISSUE] Company: TRENT | Year: 2023-03 | ROE computed (15.2%) vs companies.xlsx (27.2%) anomaly
+[DATA_SOURCE_ISSUE] Company: TRENT | Year: 2024-03 | ROE computed (44.5%) vs companies.xlsx (27.2%) anomaly

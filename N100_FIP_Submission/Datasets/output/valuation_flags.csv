@@ -1,0 +1,44 @@
+company_id,company_name,broad_sector,pe_ratio,pb_ratio,ev_ebitda,dividend_yield_pct,fcf_yield_pct,median_pe_5yr,sector_median_pe,pe_vs_sector_median_pct,valuation_flag
+ADANIENT,Adani Enterprises Ltd,Industrials,65.7,5.32,10.14,3.93,1.1,57.5,39.94,64.5,Caution
+ADANIGREEN,Adani Green Energy Ltd,Energy,9.89,6.92,25.56,4.31,0.76,33.34,34.83,-71.6,Discount
+AMBUJACEM,Ambuja Cements Ltd,Materials,73.29,1.59,6.74,0.57,-0.97,50.98,38.11,92.31,Caution
+BAJAJ-AUTO,Bajaj Auto Ltd,Consumer Discretionary,78.58,8.54,37.84,3.66,1.17,49.56,31.39,150.33,Caution
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,Financials,26.75,3.46,17.45,0.33,0.09,44.24,52.59,-49.13,Discount
+BAJFINANCE,Bajaj Finance Ltd,Financials,19.1,4.67,26.51,0.83,-2.77,50.87,52.59,-63.68,Discount
+BANKBARODA,Bank of Baroda,Financials,27.29,5.48,11.96,2.28,-4.83,51.62,52.59,-48.11,Discount
+BEL,Bharat Electronics Ltd,Industrials,18.0,12.66,25.88,4.22,0.37,56.3,39.94,-54.93,Discount
+BRITANNIA,Britannia Industries Ltd,Consumer Staples,25.49,4.57,25.98,4.06,0.36,36.78,40.79,-37.51,Discount
+CIPLA,"Cipla Ltd
+",Healthcare,37.3,10.46,15.61,1.96,0.25,50.41,20.98,77.79,Caution
+DABUR,Dabur India Ltd,Consumer Staples,74.55,11.51,20.37,2.27,1.46,41.06,40.79,82.77,Caution
+DMART,Avenue Supermarts Ltd,Consumer Discretionary,53.49,13.37,27.62,3.66,0.01,45.66,31.39,70.4,Caution
+DRREDDY,Dr Reddys Laboratories Ltd,Healthcare,11.34,10.95,23.9,3.71,0.08,12.38,20.98,-45.95,Discount
+GRASIM,Grasim Industries Ltd,Industrials,64.84,6.73,9.46,0.54,-5.14,47.49,39.94,62.34,Caution
+HAL,Hindustan Aeronautics Ltd,Industrials,11.8,2.43,27.48,3.62,0.15,53.64,39.94,-70.46,Discount
+HAVELLS,Havells India Ltd,Industrials,66.78,4.68,39.35,1.98,0.02,55.34,39.94,67.2,Caution
+HCLTECH,HCL Technologies Ltd,Information Technology,9.19,2.28,10.69,3.4,3.74,62.05,41.79,-78.01,Discount
+HDFCBANK,HDFC Bank Ltd,Financials,33.49,4.99,18.17,2.75,2.06,31.84,52.59,-36.32,Discount
+HEROMOTOCO,"Hero MotoCorp Ltd
+",Consumer Discretionary,11.61,7.5,36.98,3.56,0.14,60.28,31.39,-63.01,Discount
+HINDALCO,Hindalco Industries Ltd,Materials,71.42,2.69,7.86,1.33,2.17,51.02,38.11,87.4,Caution
+ICICIGI,ICICI Lombard General Insurance Company Ltd,Financials,15.87,12.74,8.84,0.18,0.05,52.4,52.59,-69.82,Discount
+INDIGO,Interglobe Aviation Ltd,Consumer Discretionary,55.98,3.2,28.15,2.22,0.87,53.7,31.39,78.34,Caution
+INFY,Infosys Ltd,Information Technology,71.12,11.97,5.78,0.56,2.46,34.31,41.79,70.18,Caution
+IOC,"Indian Oil Corporation
+",Energy,77.78,0.97,16.74,2.19,0.1,49.11,34.83,123.31,Caution
+JINDALSTEL,Jindal Steel & Power Ltd,Materials,73.96,8.84,9.73,2.46,0.77,43.26,38.11,94.07,Caution
+JSWSTEEL,JSW Steel Ltd,Materials,8.68,9.24,33.75,2.83,0.6,35.88,38.11,-77.22,Discount
+LTIM,LTIMindtree Ltd,Information Technology,71.7,1.11,12.43,3.12,0.26,60.76,41.79,71.57,Caution
+MARUTI,Maruti Suzuki India Ltd,Consumer Discretionary,14.7,14.19,31.01,1.41,0.13,28.56,31.39,-53.17,Discount
+NESTLEIND,Nestle India Ltd,Consumer Staples,11.53,1.76,33.06,4.1,,50.58,40.79,-71.73,Discount
+NTPC,NTPC Ltd,Energy,79.29,12.24,9.96,3.18,2.2,44.12,34.83,127.65,Caution
+PFC,Power Finance Corporation Ltd,Financials,32.45,5.31,36.33,0.09,-4.7,35.95,52.59,-38.3,Discount
+PNB,Punjab National Bank,Financials,20.74,8.38,38.52,2.83,1.05,20.58,52.59,-60.56,Discount
+RELIANCE,"Reliance Industries Ltd
+",Energy,75.41,8.7,27.55,0.62,4.9,50.5,34.83,116.51,Caution
+TATACONSUM,Tata Consumer Products Ltd,Consumer Staples,77.06,7.38,38.99,1.85,0.17,37.66,40.79,88.92,Caution
+TATASTEEL,"Tata Steel Ltd
+",Materials,19.23,3.0,34.08,2.75,1.09,50.56,38.11,-49.54,Discount
+TCS,Tata Consultancy Services Ltd,Information Technology,8.74,13.8,29.01,3.1,10.47,52.36,41.79,-79.09,Discount
+TORNTPHARM,Torrent Pharmaceuticals Ltd,Healthcare,38.01,12.97,38.94,0.58,0.0,48.83,20.98,81.17,Caution
+TRENT,Trent Ltd,Consumer Discretionary,65.94,9.88,32.51,2.62,0.08,67.02,31.39,110.07,Caution

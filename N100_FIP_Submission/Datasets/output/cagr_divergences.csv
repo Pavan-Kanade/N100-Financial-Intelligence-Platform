@@ -1,0 +1,3 @@
+company_id,metric,parsed_val,calc_val,divergence_pct
+HDFCBANK,revenue_cagr_5yr,22.0,14.8938,7.11
+SBILIFE,revenue_cagr_5yr,24.0,18.8055,5.19

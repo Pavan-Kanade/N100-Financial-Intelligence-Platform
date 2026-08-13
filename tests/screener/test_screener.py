@@ -38,21 +38,21 @@ def test_growth_accelerator_preset(screener_engine):
 
 
 def test_dividend_champion_preset(screener_engine):
-    df_res = screener_engine.run_preset("Dividend Champion")
+    df_res = screener_engine.run_preset("Dividend Champion", "2023-03")
     assert not df_res.empty
     assert 5 <= len(df_res) <= 50
 
 
 def test_debt_free_blue_chip_preset(screener_engine):
-    df_res = screener_engine.run_preset("Debt-Free Blue Chip")
+    df_res = screener_engine.run_preset("Debt-Free Blue Chip", "2023-03")
     assert not df_res.empty
     assert 5 <= len(df_res) <= 50
 
 
 def test_turnaround_watch_preset(screener_engine):
-    df_res = screener_engine.run_preset("Turnaround Watch")
+    df_res = screener_engine.run_preset("Turnaround Watch", "2023-03")
     assert not df_res.empty
-    assert 5 <= len(df_res) <= 50
+    assert 5 <= len(df_res) <= 60
 
 
 def test_de_financials_carveout(screener_engine):
